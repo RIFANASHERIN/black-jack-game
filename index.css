@@ -1,0 +1,29 @@
+body {
+  background-image: url("greenwallpaper.jpg");
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  background-size: cover;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  background-color: goldenrod;
+  border: none;
+  color: #016f32;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  width: 150px;
+  font-weight: bold;
+  border-radius: 2px;
+  margin-bottom: 4px;
+}
